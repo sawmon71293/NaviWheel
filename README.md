@@ -1,2 +1,2 @@
 # NaviWheel
-Ride share app using PHP, Laravel and Vue
+Ride share app using PHP, Laravel, Vue and Postgres.
